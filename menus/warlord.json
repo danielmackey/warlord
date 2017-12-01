@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle warlord",
+        "command": "warlord:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "warlord",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "warlord:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "warlord",
+  "main": "./lib/warlord",
+  "version": "0.0.0",
+  "description": "atom plugin for those who :poop: themselves",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "warlord:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmackey/warlord.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/danielmackey/warlord/issues"
+  },
+  "homepage": "https://github.com/danielmackey/warlord#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Daniel Mackey <npm@danielmackey.com>"
+}
