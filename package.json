@@ -1,7 +1,7 @@
 {
   "name": "warlord",
   "main": "./lib/warlord",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "atom plugin for those who :poop: themselves",
   "keywords": [],
   "activationCommands": {
